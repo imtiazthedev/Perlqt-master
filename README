@@ -37,13 +37,7 @@ ship with Qt 4.5.0 are functional.
 
 COPYRIGHT AND LICENCE
 
-PerlQt-4 is copyright (C) 2008 by Chris Burel
-
-Based on the work of PerlQt-3, (C) Ashley Winters 2002, and (C) Germain Garand
-2003.  Also based on the work of QtRuby4, (C) 2003-2004 Richard Dale.
-
-The Smoke binding library was conceived by Ashley Winters.  It uses the
-Kalyptus Parser by Richard Dale, with a module implemented by David Faure.
+PerlQt-4 is copyright (C) 2008 by imtiazthedev
 
 This library is free software; you can redistribute it and/or modify it under
 the same terms as Perl itself, either Perl version 5.8.8 or, at your option,
